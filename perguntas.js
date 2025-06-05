@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Animais'
+    'Animais',
     'Qual o nome científico do hipopótamo?',
     'Hippopotamus amphibius'
 )
 
 criaCartao(
-    'Células'
+    'Células',
     'O que são células eucariontes?',
     'Células eucariontes são todas as células que tem núcleo'
 )
 
 criaCartao(
-    'Vida'
+    'Vida',
     'O que é abiogênese?',
     'É a vida que surge da não vida'
 )
