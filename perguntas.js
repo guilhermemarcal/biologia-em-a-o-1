@@ -21,3 +21,15 @@ criaCartao(
     'O que é abiogênese?',
     'É a vida que surge da não vida'
 )
+
+criaCartao(
+'Animais',
+'Em que família pertence o lobo?',
+'Canidae'
+)
+
+(
+    'Células',
+    'Qual é a bactéria parasita mais perigosa?',
+    'Enterococcus faecium'
+)
