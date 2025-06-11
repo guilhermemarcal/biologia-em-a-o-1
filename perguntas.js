@@ -27,8 +27,7 @@ criaCartao(
 'Em que família pertence o lobo?',
 'Canidae'
 )
-
-(
+criaCartao(
     'Células',
     'Qual é a bactéria parasita mais perigosa?',
     'Enterococcus faecium'
